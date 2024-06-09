@@ -16,15 +16,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100085330421655"
+    "61560386714149"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Artificial Intelligence",
-  "prefix": "-",
+  "nickNameBot": "Ai",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -35,7 +35,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "markleemeniola@gmail.com",
+      "email": "marvinhiponia20@gmail.con",
       "clientId": "982523941925-sm544j8mbr0ie6jl4a91gfdsg47ibrcs.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04qZNNkc59U8DCgYIARAAGAQSNwF-L9IrGVMGG-1weLI0ZSAtl-nlcryJj0YIZ1mCyWV9au1SJ27ZLLMU8t-e9DkV-Aemob-fPK8",
